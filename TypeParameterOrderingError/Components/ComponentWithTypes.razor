@@ -1,0 +1,10 @@
+﻿@typeparam TService where TService : IInterfaceConstraint<TKey>
+@typeparam TKey
+
+@code {
+    [Parameter]
+    public required TKey? Value { get; set; }
+
+    [Parameter]
+    public EventCallback<TKey> ValueChanged { get; set; }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34310.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeParameterOrderingError", "TypeParameterOrderingError\TypeParameterOrderingError.csproj", "{6B521E52-6C61-473C-B141-B3E86B9F4BA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B521E52-6C61-473C-B141-B3E86B9F4BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B521E52-6C61-473C-B141-B3E86B9F4BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B521E52-6C61-473C-B141-B3E86B9F4BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B521E52-6C61-473C-B141-B3E86B9F4BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74238948-D9EC-48F6-BB1A-0898DC4F18D5}
+	EndGlobalSection
+EndGlobal
